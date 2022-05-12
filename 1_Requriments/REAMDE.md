@@ -43,5 +43,16 @@
 ---
 ## High Level Requrements
 | ID | High Level Requriments | Status |
-
+|----|-------------------------| ------|
 | HLR1 | It shall on the engine | Implemented |
+| HLR2 | It shall off the engine | Implemented |
+| HLR3 | It shall turn on the wiper | Implemented |
+| HLR4 | It shall turn off the wiper | Implemented |
+---
+## Low Level Requeiments
+| ID | Low Level Requriments | Status |
+|----|-----------------------|--------|
+| LLR1 | If user button pressed once red led will be on | Implemented |
+| LLR2 | If user button pressed twice red led will be off | Implemented|
+| LLR3 | If user button pressed 3 times blue-green-orange led's will be on in clock wise manner | Implemented |
+| LLR4 | If user button pressed 4 times orange-green-blue led's will be on in anticlock wise manner | implemented |
